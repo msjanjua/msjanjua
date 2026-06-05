@@ -30,7 +30,7 @@
 
 
 
-🔭 Currently working on **[msjanjua](https://github.com/msjanjua/msjanjua)**
+🔭 Currently working on **Automation**
 
 🌱 Currently learning **Selenium, Playwright, Java, Javascript**
 
