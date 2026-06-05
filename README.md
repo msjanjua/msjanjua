@@ -3,14 +3,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MJ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20QA%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=MJ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Senior-70a5fd?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Software-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/13+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/2-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=msjanjua&style=for-the-badge&color=70a5fd" alt="views"/>
@@ -30,14 +30,14 @@
 
 
 
-🔭 Currently working on **[playwright_actions](https://github.com/msjanjua/playwright_actions)**
+🔭 Currently working on **[msjanjua](https://github.com/msjanjua/msjanjua)**
 
-🌱 Currently learning **Playwright**
-
-
+🌱 Currently learning **Selenium, Playwright, Java, Javascript**
 
 
-📦 **33** repositories | ⭐ **2** stars
+
+
+📦 **36** repositories | ⭐ **2** stars
 
 <br clear="right"/>
 
@@ -75,10 +75,11 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
 </div>
@@ -89,11 +90,14 @@
 <h3 align="center">💻 Development</h3>
 <br/>
 <div align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
@@ -105,12 +109,11 @@
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
 </div>
 
 </td>
@@ -124,10 +127,10 @@
 
 <div align="center">
 
+<a href="https://github.com/msjanjua/msjanjua"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=msjanjua&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="msjanjua"/></a>
 <a href="https://github.com/msjanjua/playwright_actions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=playwright_actions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="playwright_actions"/></a>
 <a href="https://github.com/msjanjua/learning-playwright-butch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=learning-playwright-butch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="learning-playwright-butch"/></a>
 <a href="https://github.com/msjanjua/Practical-Playwright-Test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=Practical-Playwright-Test&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Practical-Playwright-Test"/></a>
-<a href="https://github.com/msjanjua/msjanjua"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=msjanjua&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="msjanjua"/></a>
 <a href="https://github.com/msjanjua/CypressTutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjanjua&repo=CypressTutorial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="CypressTutorial"/></a>
 
 </div>
@@ -145,6 +148,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><a href="https://github.com/msjanjua/msjanjua"><b>msjanjua</b></a></td>
+<td>My GitHub Profile README</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+</tr>
 <tr>
 <td><a href="https://github.com/msjanjua/playwright_actions"><b>playwright_actions</b></a></td>
 <td>No description</td>
@@ -167,13 +177,6 @@
 <td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/msjanjua/msjanjua"><b>msjanjua</b></a></td>
-<td>My GitHub Profile README</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/msjanjua/CypressTutorial"><b>CypressTutorial</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
@@ -184,7 +187,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>33</b> repositories — <b>2</b> stars earned</i>
+  <i>💡 Total of <b>36</b> repositories — <b>2</b> stars earned</i>
 </p>
 
 
@@ -217,7 +220,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-33-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-36-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
